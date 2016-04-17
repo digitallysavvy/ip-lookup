@@ -5,7 +5,6 @@ A simple SPRING server that returns the client's IP address within the current n
 
 ## Compile
 ```bash
-cd /ip-lookup
 ./gradlew build
 ```
 
